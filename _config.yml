@@ -9,28 +9,28 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Emily Woodard / Academic Profile"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Emily Woodard"
+description              : &description "Emily Woodard's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://sesameErmy.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "sesameErmy/sesameErmy.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-author:
+author:       
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Emily Woodard"
+  pronouns         : "She/Her"  
+  bio              : "Emily is a current Virginia Tech undergrad student in Computer Engineering. She has been working on various client and school projects since highschool and is very passionate about her work. She also studies Science, Technology, and Society and Disability Studies as a secondary focus."
+  location         : "Blacksburg, VA"
+  employer         : "Virginia Tech"
+  uri              : "https://sesameErmy.github.io" 
+  email            : "emilyw22@vt.edu"
 
   # Academic websites
   academia         : # URL
